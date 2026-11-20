@@ -1,7 +1,7 @@
 ---
 id: foundry
 name: Foundry
-version: 1.0.3
+version: 1.0.4
 author: Michael Hejazi
 api: 0
 kind: [theme]

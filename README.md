@@ -51,7 +51,7 @@ options are too.
 - **Install from a link** in Settings › Plugins:
 
   ```
-  https://github.com/michaelhejazi/loam-foundry/tree/v1.0.3
+  https://github.com/michaelhejazi/loam-foundry/tree/v1.0.4
   ```
 
 ## Made by
